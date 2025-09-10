@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "name": "Tenis",
+    "image": "assets/images/tenis.png",
+    "description": "Bate Bola com uma Raquete",
+    "popularity": "Baixa"
+  },
+  {
+    "id": 2,
+    "name": "Futebol",
+    "image": "assets/images/futebol.png",
+    "description": "Bate Bola com o Pé",
+    "popularity": "Alta"
+  },
+  {
+    "id": 3,
+    "name": "Voleibol",
+    "image": "assets/images/voleibol.png",
+    "description": "Bate Bola com a Mão",
+    "popularity": "Média"
+  },
+  {
+    "id": 4,
+    "name": "Sinuca",
+    "image": "assets/images/sinuca.png",
+    "description": "Bate Bola com um Taco",
+    "popularity": "Alta"
+  }
+
+]
